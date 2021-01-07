@@ -53,15 +53,9 @@ you can also learn [when to use SQLite and when not to use it](http://www.sqlite
 ## Assignment Details
 
 To run SQLite do the following:
-- You can directly open the `sqlite3` if you downloaded precompiled binaries `sqlite3 tool`. Or
-- Mac OS X or Linux: open a terminal and type `sqlite3` (if installed)
-- Windows: there are two reasonable options:
-  - Install the stand-alone windows program from the [SQLite web site](https://www.sqlite.org) 
-  (precompiled windows command-line shell on the [download](http://www.sqlite.org/download.html) page)
-  - (maybe a bit more complicated): Install [cygwin](http://www.cygwin.com/) to get a 
-  linux command shell, then open cygwin and type `sqlite3` 
-  (you may have to install it by running setup →  database → sqlite3).
-  - You can also find Installation Tutorial Videos on Youtube.  
+- For Windows, Mac OS, or Linux, you can directly open the `sqlite3 console` if you downloaded `Precompiled Binaries sqlite3 tool` 
+  - On the [download](http://www.sqlite.org/download.html) page, make sure to download the one that has name `sqlite-tools-****-***-****.zip`. 
+ - You can find Installation Tutorial Videos on Youtube.  
 
 ### Problems
 
